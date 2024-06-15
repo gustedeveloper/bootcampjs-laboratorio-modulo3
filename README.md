@@ -1,11 +1,10 @@
-# typescript-sandbox
+# Bootcamp JavaScript 2 - Lemoncode
 
-Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
+## Laboratorio Módulo 3 - Variables
 
-Pasos:
+Este ejercicio es parte del Bootcamp de Javascript de Lemoncode y representa la cuarta entrega correspondiente al Módulo 3 de Variables. He trabajado con variables en JavaScript y TypeScript, cómo asignarles valores y definir su tipo, además de aprender a usar interfaces en TypeScript para estructurar mejor los datos y asegurar que sigan un formato específico. Y me he familiarizado aún más con el modo estricto de TypeScript para escribir código más seguro para evitar errores comunes.
 
-- Clonate el proyecto.
-- Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm run dev`.
-- Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
-- Puedes empezar a meter tu código en el fichero:
+## Autor
+
+Este ejercicio ha sido desarrollado por Guste Gaubaite, como parte del Bootcamp de Javascript de Lemoncode.
+
